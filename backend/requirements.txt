@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+websockets
+pydantic
+pydantic-settings
+opencv-python
+mediapipe
+numpy<2.0.0
+scikit-learn
+joblib
+httpx
+python-dotenv
+Pillow
+scipy
